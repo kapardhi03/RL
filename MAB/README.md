@@ -65,7 +65,7 @@ pip install jupyter numpy matplotlib
 
 ## Further Reading
 
-For a detailed explanation of the Multi-Armed Bandit problem and these algorithms, please refer to the accompanying Medium article: [https://medium.com/@kapardhikannekanti/everything-you-need-to-know-about-the-multi-armed-bandit-cdd0c85a9835]
+For a detailed explanation of the Multi-Armed Bandit problem and these algorithms, please refer to the accompanying Medium article: https://medium.com/@kapardhikannekanti/everything-you-need-to-know-about-the-multi-armed-bandit-cdd0c85a9835
 
 Feel free to experiment with the code, modify parameters, and observe how different algorithms perform under various conditions.
 
